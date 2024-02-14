@@ -1,0 +1,64 @@
+body {
+  margin: auto;
+  width: 600px;
+  padding: 10px 50px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+html {
+  background-image: url("images/light\ background\ image.jpg");
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+h1 {
+  background-color: aqua;
+  border-radius: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#h31 {
+  color: red;
+}
+
+#h32 {
+  color: orange;
+}
+
+#h33 {
+  color: blue;
+}
+
+#h34 {
+  color: maroon;
+}
+
+.p {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  width: 200px;
+}
+
+ul.myUL1 {
+  display: inline-block;
+  text-align: left;
+}
